@@ -8,26 +8,11 @@ h1{
     border-bottom: 2px solid #a52a2a;
 }
 
-ul{
-    display: flex;
-    min-width: 50px;
-}
-
-li{
-    list-style: none;
-    border-right: 2px solid #a52a2a;
-    padding: 6px;
-}
 
 li:last-child{
     border-right: none;
 }
 
-.container{
-    display: grid;
-    grid-template-columns: auto auto;
-    column-gap: 3rem;
-}
 h2{
     width: 96%;
     background-color: #cd853f;
@@ -36,12 +21,7 @@ h2{
 p{
     text-align: justify;
 }
-img{
-    width:100px;
-    border:2px solid #a52a2a;
-    float:left;
-    margin: 5px
-}
+
 .hasab {
 
 }
